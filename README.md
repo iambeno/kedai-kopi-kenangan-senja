@@ -7,9 +7,4 @@ Untuk melihat secara langsung demo dari website yang telah saya kembangkan, sila
 Desktop preview :
 ![image](https://github.com/iambeno/kedai-kopi-kenangan-senja/assets/132084722/1bfdc054-7cfb-47d0-9a14-7f3adcc87064)
 
-Tablet preview:
-![image](https://github.com/iambeno/kedai-kopi-kenangan-senja/assets/132084722/672fe58d-ae43-4cb4-b535-74f546165c66)
-
-Mobile phone preview: 
-![image](https://github.com/iambeno/kedai-kopi-kenangan-senja/assets/132084722/324ad06a-5df7-4eab-9f40-f1fc664f3dd8)
 
