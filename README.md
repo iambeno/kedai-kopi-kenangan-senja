@@ -4,7 +4,6 @@ Website ini merupakan hasil pembuatan yang terinspirasi oleh tutorial keren dari
 Untuk melihat secara langsung demo dari website yang telah saya kembangkan, silakan kunjungi tautan berikut: https://iambeno.github.io/kedai-kopi-kenangan-senja/#home. 
 
 ## Preview
-Desktop preview :
 ![image](https://github.com/iambeno/kedai-kopi-kenangan-senja/assets/132084722/1bfdc054-7cfb-47d0-9a14-7f3adcc87064)
 
 
